@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+      <link rel="icon" href="assets/css/images/icon.png">
+      <!-- custom css-->
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <!-- kit.fontawesome link-->
+    <script src="https://kit.fontawesome.com/6b22a160e8.js" crossorigin="anonymous"></script>
+    <title> Portfolio</title>
+  </head>
+  <body>
+
+    <!-- navbar -->
+    <nav>
+      <div class="nav-content">
+        <div class="logo"><a href="index.html">I S A</a></div>
+        <label for="check" class="checkbox">
+          <i class="ri-menu-line"></i>
+        </label>
+        <input type="checkbox" name="check" id="check">
+        <ul class="nav">
+          <li><a href="index.html" class="active">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#project">Project</a></li>
+          <li><a href="#skills">Skills</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <!---header -->
+    <section class="section">
+      <div class="section-container">
+        <div class="content">
+          <p class="hello">HELLO</p>
+          <h1 class="title">
+            I'm <span>I S A</span><br>a Web Developer
+          </h1>
+          <p class="description">
+            Hi, I'm I S A, a web developer focused on building responsive and user-friendly websites. 
+            From blogs to e-commerce sites, I create clean, functional designs that meet your needs.
+          </p>
+          <div class="contact-btn">
+            <ul>
+                <li><a href="#contact" class="contact">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="image">
+          <img src="assets/image/developer.webp" alt="profile">
+        </div>
+      </div>
+    </section>
+
+ 
+    <!-- Cards Section -->
+    <div class="card-section" id="project">
+        <h2 class="section-title">Project</h2>
+        <div class="card-container">
+            <div class="card">
+                <img src="assets/image/people.jpg" alt="A gamewalkboard, a fun people and interactive exercise equipment" class="card-image">
+                <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+                  <h3 class="card-title">Love Running</h3></a>
+            </div>
+            <div class="card">
+                <img src="assets/image/game.jpg" alt="Card game" class="card-image">
+                <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+                  <h3 class="card-title">gamewalkboard</h3></a>
+            </div>
+            <div class="card" id="card3">
+                <img src="assets/image/gamepad.png" alt="A person love running,gamepad and exercise" class="card-image">
+                <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+                  <h3 class="card-title">Love Running</h3></a>
+            </div>
+        </div>
+    </div>
+
+<hr>
+
+
+    <!-- skills Section -->
+    <div class="skills-section" id="skills">
+        <h2 class="section-title"><i class="fa-solid fa-code"></i> Skills </h2>
+        <div class="skill-container">
+            <h3>Html</h3>
+            <div class="light-gray">
+                <span class="dark-gray1">95%</span>
+            </div>
+            
+        </div>
+        <div class="skill-container">
+            <h3>Css</h3>
+            <div class="light-gray">
+                <span class="dark-gray2">80%</span>
+            </div>
+            
+        </div>
+        <div class="skill-container">
+            <h3>Javascript</h3>
+            <div class="light-gray">
+                <span class="dark-gray3">65%</span>
+            </div>
+            
+        </div>
+    </div>
+
+    
+
+    <!--- About me section-->
+
+    <section class="section" id="about">
+        <div class="section-container">
+          <div class="content">
+            <h1 class="title">
+              About <span>me</span><br>a Web Developer
+            </h1>
+            <p class="description">
+              Welcome to my web developer portfolio! I'm I S A, a skilled and
+              creative web developer with a passion for creating beautiful,
+              responsive, and user-friendly websites. I've worked on a variety of
+              web projects, ranging from personal blogs to e-commerce platforms.
+            </p>
+            <div class="social-links">
+              <a href="https://github.com/" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i></a>
+              <a href="https://x.com/" target="_blank" rel="noopener"><i class="fa-brands fa-x-twitter"></i></a>
+              <a href="https://linkedin.com/" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i></a>
+          </div>
+            
+          </div>
+          <div class="image">
+            <img src="assets/image/man.png" alt="profile">
+          </div>
+        </div>
+      </section>
+
+
+
+
+    <!-- Footer -->
+    <footer class="footer" id="contact">
+        <div class="social-links">
+            <p>Create it By <b>I S A</b> </p>
+            <p><strong>Contact Me:</strong></p>
+            <a href="https://x.com/" target="_blank">Twitter</a> |
+            <a href="https://github.com/" target="_blank">GitHub </a> |
+            <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> 
+        </div>
+    </footer>
+
+    <script>
+        function toggleMenu() {
+            const navLinks = document.querySelector('nav ul');
+            navLinks.classList.toggle('active');
+        }
+    </script>
+  </body>
+</html>
