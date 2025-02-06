@@ -3,7 +3,7 @@
 This portfolio showcases my web development skills and projects, targeting potential employers, clients, and collaborators.  It highlights my technical abilities and passion for creating user-friendly digital experiences.  Ultimately, it aims to connect me with opportunities where I can contribute and grow as a developer. [My Portfolio](https://isaibrahim1.github.io/Portfolio/).
 
 ## Features
-
+![Alt text](https://github.com/isaibrahim1/Portfolio/blob/main/desktop.png?raw=true)
 This portfolio is divided into three sections: "About" introduces me and my passion for web development; "Projects" showcases my work and problem-solving skills, demonstrating my ability to deliver effective web solutions; and "Skills" highlights my technical proficiencies, assuring potential employers and clients of my capabilities.  Each section is designed to provide a clear and concise overview of my qualifications and experience, making it easy for visitors to assess my fit for their needs.
 
 ## Existing Features
