@@ -5,6 +5,7 @@ This portfolio showcases my web development skills and projects, targeting poten
 ## Features
  
 ![Alt text](https://github.com/isaibrahim1/Portfolio/blob/main/Laptop.png?raw=true)
+  
 This portfolio is divided into three sections: "About" introduces me and my passion for web development; "Projects" showcases my work and problem-solving skills, demonstrating my ability to deliver effective web solutions; and "Skills" highlights my technical proficiencies, assuring potential employers and clients of my capabilities.  Each section is designed to provide a clear and concise overview of my qualifications and experience, making it easy for visitors to assess my fit for their needs.
 
 ## Existing Features
@@ -12,31 +13,54 @@ This portfolio is divided into three sections: "About" introduces me and my pass
      - A responsive navigation bar, featuring links to About, Projects, and Skills, is present on all pages, ensuring effortless navigation across all devices
     
  - ### About
+    <div>
+     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/abou%20me.png?raw=true">
+    </div>
      - Welcome to my web developer portfolio! I'm I S A, a skilled and creative web developer with a passion for creating beautiful, responsive, and user-friendly websites. I've worked on a variety of web projects, ranging from personal blogs to e-commerce platforms.
 
  - ### Projects
      - This portfolio showcases my completed projects, demonstrating my technical skills, problem-solving abilities, and design sensibilities.
 
  - ### Skills
+    <div>
+     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/skills.png?raw=true">
+    </div>
      - This section outlines my technical proficiencies in various programming languages, frameworks, and tools, providing a clear overview of my capabilities.      
        
  - ###  The Footer
+    <div>
+     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/footer.png?raw=true">
+    </div>
    - The footer provides links to my social media profiles, making it easy to connect and stay updated on my work.
+
+
      
 ## Features Left to Implement
   - Future enhancements include a blog section, an interactive contact form, and improved accessibility features.
+
+
 
 ## Testing
    
 
 - ## Validator Testing 
-    - HTML
+    - ## HTML
+      <div>
+     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/html%20checker.png?raw=true">
+    </div>
        - No errors were returned when passing through the official W3C validator
-    - CSS
+          
+    - ## CSS
+       <div>
+     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/css%20validation.png?raw=true">
+    </div>
        - No errors were found when passing through the official      
 
  ## Unfixed Bugs
    - The navigation menu's responsiveness on smaller devices is currently being addressed, but is not yet fully resolved, to ensure proper functionality and a smooth user experience
+   
+     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/lighthouse.png?raw=true">
+ ## Testing in lighthous report  
 
  ## Deployment
    - The site is deployed using GitHub Pages [My Portfolio](https://isaibrahim1.github.io/Portfolio/).
@@ -65,4 +89,16 @@ This portfolio is divided into three sections: "About" introduces me and my pass
 ## Media
   - The photos used on the home and sign up page are from This Open Source site [Bixapay](https://pixabay.com/) and [Hiclipart](https://www.hiclipart.com/)
 
+ ## User Experience (UX)
+  - First Time Visitor Goals
+      - In this portfolio project, I prioritized user-centric design principles, ensuring that the interface is easy to navigate, visually appealing, and accessible to a wide range of users.
+
+
+- Responsive Design
+  - Ensuring the site looks great and functions smoothly across all devices and screen sizes.
+
+- Clear Visual Hierarchy
+  - Using design elements like typography, color, and spacing to guide the user’s focus and enhance readability.      
+ 
+     
 
