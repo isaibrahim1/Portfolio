@@ -1,6 +1,6 @@
 # My Portfolio
 
-This portfolio showcases my web development skills and projects, targeting potential employers, clients, and collaborators.  It highlights my technical abilities and passion for creating user-friendly digital experiences.  Ultimately, it aims to connect me with opportunities where I can contribute and grow as a developer. [My Portfolio](https://isaibrahim1.github.io/Portfolio/).
+This portfolio show cases my web development skills and projects, targeting potential employers, clients, and collaborators.  It highlights my technical abilities and passion for creating user-friendly digital experiences.  Ultimately, it aims to connect me with opportunities where I can contribute and grow as a developer. [My Portfolio](https://isaibrahim1.github.io/Portfolio/).
 
 ## Features
  
