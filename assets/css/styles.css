@@ -243,11 +243,7 @@ input[type="checkbox"] {
     gap: 40px;
     flex-wrap: wrap;
 }
-.image img {
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
-}
+
 .content h1 {
     font-size: 28px;
     color: #6d4300;
