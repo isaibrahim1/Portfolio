@@ -311,7 +311,7 @@ footer {
 
 }
 .card-image {
-    width: 304;
+    width: 304px;
     height: 271px;
     object-fit: cover;
 }
