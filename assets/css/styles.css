@@ -243,6 +243,11 @@ input[type="checkbox"] {
     gap: 40px;
     flex-wrap: wrap;
 }
+.image img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
 
 .content h1 {
     font-size: 28px;
@@ -397,11 +402,7 @@ footer {
       text-align: center;
     }
    
-    .image img  {
-      width: 100% !important;
-      height: auto!important;
-      object-fit: cover!important;
-    }  
+    
     .card-container {
       flex-direction: column;
       align-items: center;
