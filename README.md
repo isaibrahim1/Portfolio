@@ -19,6 +19,9 @@ This portfolio is divided into three sections: "About" introduces me and my pass
      - Welcome to my web developer portfolio! I'm I S A, a skilled and creative web developer with a passion for creating beautiful, responsive, and user-friendly websites. I've worked on a variety of web projects, ranging from personal blogs to e-commerce platforms.
 
  - ### Projects
+    <div>
+     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/project.png?raw=true">
+    </div>
      - This portfolio showcases my completed projects, demonstrating my technical skills, problem-solving abilities, and design sensibilities.
 
  - ### Skills
@@ -88,6 +91,11 @@ This portfolio is divided into three sections: "About" introduces me and my pass
   - A content for the site, such as introduction messages and instructions were written by [Gemini](https://gemini.google.com/?hl=sv).
 ## Media
   - The photos used on the home and sign up page are from This Open Source site [Bixapay](https://pixabay.com/) and [Hiclipart](https://www.hiclipart.com/)
+
+ ## Design
+  - ## Colour Scheme
+     - I have used #a855f7 &  #9333ea as the primary and dark colours used for the navbar and buttom.
+     - I have used #ca8a04 as the secondary-color  used for the text and link.
 
  ## User Experience (UX)
   - First Time Visitor Goals
