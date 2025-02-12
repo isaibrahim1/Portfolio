@@ -316,13 +316,11 @@ footer {
 
 /* skills Section */
 .skills-section {
-    margin-top: -80px;
     padding-top: 80px;
-    margin-bottom: 70px;
-}
-.skills-section i {
-  margin-right: 10px;
-  color: var(--secondary-color);
+    color: var(--secondary-color);
+    background-color: ivory;
+    height: 466px;
+    
 }
 
 /* skills section */
