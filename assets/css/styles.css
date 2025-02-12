@@ -306,7 +306,12 @@ footer {
     height: 271px;
     object-fit: cover;
 }
-
+.card-image, h3 {
+  color: var(--text-dark);
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  padding-top: 5px;
+}
 
 
 /* skills Section */
