@@ -39,7 +39,7 @@ This portfolio is divided into three sections: "About" introduces me and my pass
 
      
 ## Features Left to Implement
-  - Future enhancements include a blog section, an interactive contact form, and improved accessibility features.
+  - Implement dynamic theme switching and enhance responsiveness for better user experience.
 
 
 
