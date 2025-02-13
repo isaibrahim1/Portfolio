@@ -13,9 +13,9 @@ This portfolio is divided into three sections: "About" introduces me and my pass
      - A responsive navigation bar, featuring links to About, Projects, and Skills, is present on all pages, ensuring effortless navigation across all devices
     
  - ### About
-    <div>
-     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/abou%20me.png?raw=true">
-    </div>
+    
+     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/aboume.png?raw=true">
+     
      - Welcome to my web developer portfolio! I'm I S A, a skilled and creative web developer with a passion for creating beautiful, responsive, and user-friendly websites. I've worked on a variety of web projects, ranging from personal blogs to e-commerce platforms.
 
  - ### Projects
@@ -48,15 +48,16 @@ This portfolio is divided into three sections: "About" introduces me and my pass
 
 - ## Validator Testing 
     - ## HTML
-      <div>
-     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/html%20checker.png?raw=true">
-    </div>
+      
+     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/htmlchecker.png?raw=true">
+    
        - No errors were returned when passing through the official W3C validator
           
     - ## CSS
-       <div>
-     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/css%20validation.png?raw=true">
-    </div>
+     
+    
+      <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/cssvalidation.png?raw=true">
+   
        - No errors were found when passing through the official      
 
  ## Unfixed Bugs
@@ -81,8 +82,9 @@ This portfolio is divided into three sections: "About" introduces me and my pass
   -  The live link can be found here [My Portfolio](https://isaibrahim1.github.io/Portfolio/).
 
  ## Credits
-  - I used this You [Tube tutorial](https://www.youtube.com/watch?v=51DbAwcmqD8&t=10s) to Learn how to ccreate  a responsive card .
-  - I used this You [Tube tutorial](https://www.youtube.com/watch?v=2rlWBZ17Wes&t=87s&pp=ygUKbWVkaWFxdWVyeQ%3D%3D) to Learn how to use Media queries & Container queries .
+  - I used this [ tutorial from code institute platform](https://www.youtube.com/watch?v=sz9W4_TeVcg&t=476s) Making the header responsive .
+  - I used this [Tube tutorial](https://www.youtube.com/watch?v=51DbAwcmqD8&t=10s) to Learn how to ccreate  a responsive card .
+  - I used this  [Tube tutorial](https://www.youtube.com/watch?v=2rlWBZ17Wes&t=87s&pp=ygUKbWVkaWFxdWVyeQ%3D%3D) to Learn how to use Media queries & Container queries .
   ### Code Used
   - I used this You [Tube tutorial](https://www.youtube.com/watch?v=51DbAwcmqD8&t=10s) to Learn how to ccreate  a responsive card .
   - I used this You [Tube tutorial](https://www.youtube.com/watch?v=2rlWBZ17Wes&t=87s&pp=ygUKbWVkaWFxdWVyeQ%3D%3D) to Learn how to use Media queries & Container queries .
