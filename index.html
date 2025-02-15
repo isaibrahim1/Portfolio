@@ -60,11 +60,11 @@
     <section class="card-section" id="project">
         <h2 class="section-title">Project</h2>
         <div class="card-container">
-          <a href="https://www.google.com" target="_blank"  class="card" rel="noopener noreferrer">
+          <a href="https://isaibrahim1.github.io/Love-running/" target="_blank"  class="card" rel="noopener noreferrer">
             <img src="assets/image/people.webp" alt="A gamewalkboard, a fun people and interactive exercise equipment" class="card-image">
             <h3>love running</h3>
         </a>
-        <a href="https://www.google.com" target="_blank"  class="card" rel="noopener noreferrer">
+        <a href="https://isaibrahim1.github.io/boardwalk-games/" target="_blank"  class="card" rel="noopener noreferrer">
             <img src="assets/image/game.webp" alt="A gamewalkboard, a fun people and interactive exercise equipment" class="card-image">
             <h3>gamewalkboard</h3>
         </a>
@@ -145,25 +145,6 @@
         </div>
     </footer>
 
-    <script>
-      document
-          .querySelectorAll(".navbar-collapse .nav-link")
-          .forEach((link) => {
-              link.addEventListener("click", function (e) {
-                  let section = document.querySelector(e.target.getAttribute("href"));
-                  if (section) {
-                      e.preventDefault(); // Prevent default anchor click behavior
-                      let navbarHeight = document.querySelector(".navbar-toggler").offsetHeight;
-                      window.scroll({
-                          top: section.offsetTop - navbarHeight, // Adjust for navbar height
-                          behavior: "smooth",
-                      });
-                      document
-                          .querySelector(".navbar-collapse")
-                          .classList.remove("show"); // Collapse navbar
-                  }
-              });
-          });
-    </script>
+  
   </body>
 </html>
