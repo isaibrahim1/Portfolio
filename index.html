@@ -22,8 +22,8 @@
           <i class="ri-menu-line"></i>
         </label>
         <input type="checkbox" name="check" id="check">
-        <ul class="nav">
-          <li><a href="index.html" class="active">Home</a></li>
+        <ul class="nav" collapse navbar-collapse>
+          <li><a href="index.html" class="nav-link active">Home</a></li>
           <li><a href="#about">About</a></li>
           <li><a href="#project">Project</a></li>
           <li><a href="#skills">Skills</a></li>
@@ -145,6 +145,25 @@
         </div>
     </footer>
 
-  
+    <script>
+      document
+          .querySelectorAll(".navbar-collapse .nav-link")
+          .forEach((link) => {
+              link.addEventListener("click", function (e) {
+                  let section = document.querySelector(e.target.getAttribute("href"));
+                  if (section) {
+                      e.preventDefault(); // Prevent default anchor click behavior
+                      let navbarHeight = document.querySelector(".navbar-toggler").offsetHeight;
+                      window.scroll({
+                          top: section.offsetTop - navbarHeight, // Adjust for navbar height
+                          behavior: "smooth",
+                      });
+                      document
+                          .querySelector(".navbar-collapse")
+                          .classList.remove("show"); // Collapse navbar
+                  }
+              });
+          });
+    </script>
   </body>
 </html>
