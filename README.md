@@ -42,6 +42,23 @@ This portfolio is divided into three sections: "About" introduces me and my pass
   - Implement dynamic theme switching and enhance responsiveness for better user experience.
 
 
+### Frameworks, Libraries & Programs Used
+
+* [Git](https://git-scm.com/) - For version control.
+
+* [Github](https://github.com/) - To save and store the files for the website.
+
+* [GitPod](https://gitpod.io/) - IDE used to create the site.
+
+* [Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
+
+  * [jQuery](https://jquery.com/) - A JavaScript library.
+
+* [Google Developer Tools](https://developers.google.com/web/tools) - To troubleshoot and test features, solve issues with responsiveness and styling.
+
+* [TinyPNG](https://tinypng.com/) To compress images
+
+* [Favicon.io](https://favicon.io/) To create favicon.
 
 ## Testing
    
@@ -59,6 +76,12 @@ This portfolio is divided into three sections: "About" introduces me and my pass
       <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/cssvalidation.png?raw=true">
    
        - No errors were found when passing through the official      
+
+    ## Technologies Used
+    
+    ### Languages Used
+    
+    HTML, CSS,
 
  ## Unfixed Bugs
    - The navigation menu's responsiveness on smaller devices is currently being addressed, but is not yet fully resolved, to ensure proper functionality and a smooth user experience
@@ -80,6 +103,28 @@ This portfolio is divided into three sections: "About" introduces me and my pass
       </ol> 
 
   -  The live link can be found here [My Portfolio](https://isaibrahim1.github.io/Portfolio/).
+
+
+  ### Local Development
+
+#### How to Fork
+
+To fork the repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, [Portfolio](https://isaibrahim1.github.io/Portfolio/)
+3. Click the Fork button in the top right corner.
+
+#### How to Clone
+
+To clone the repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, [Portfolio](https://isaibrahim1.github.io/Portfolio/)
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+    
 
  ## Credits
   - I used this [ tutorial from code institute platform](https://www.youtube.com/watch?v=sz9W4_TeVcg&t=476s) Making the header responsive .
