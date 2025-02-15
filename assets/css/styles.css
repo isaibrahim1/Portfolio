@@ -304,13 +304,19 @@ footer {
     width: 304px;
     height: 271px;
     object-fit: cover;
+    border-radius: 0 0 7px 7px;
 }
+
 .card-image, h3 {
   color: var(--text-dark);
   font-size: 1.4rem;
   text-transform: uppercase;
   padding-top: 5px;
 }
+.card-container h3:hover {
+  color: var(--secondary-color);
+  font-weight: bold;
+} 
 
 
 /* skills Section */
