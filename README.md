@@ -4,7 +4,7 @@ This portfolio show cases my web development skills and projects, targeting pote
 
 ## Features
  
-![Alt text](https://github.com/isaibrahim1/Portfolio/blob/main/Laptop.png?raw=true)
+  <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/fullpage.png?raw=true">
   
 This portfolio is divided into three sections: "About" introduces me and my passion for web development; "Projects" showcases my work and problem-solving skills, demonstrating my ability to deliver effective web solutions; and "Skills" highlights my technical proficiencies, assuring potential employers and clients of my capabilities.  Each section is designed to provide a clear and concise overview of my qualifications and experience, making it easy for visitors to assess my fit for their needs.
 
@@ -12,7 +12,7 @@ This portfolio is divided into three sections: "About" introduces me and my pass
 - Navigation Bar
      - A responsive navigation bar, featuring links to About, Projects, and Skills, is present on all pages, ensuring effortless navigation across all devices
     
- - ### About
+ - ### About 
     
      <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/aboume.png?raw=true">
      
@@ -154,6 +154,13 @@ To clone the repository:
 
 - Clear Visual Hierarchy
   - Using design elements like typography, color, and spacing to guide the user’s focus and enhance readability.      
- 
+
+ ## Acknowledgments
+  I would like to acknowledge the following people:
+  * [Jubril Akolade](https://github.com/Jubrillionaire) - My Code Institute Mentor.
+    I would like to express my sincere thanks to my mentor for taking the time to walk through my code with me during moments of struggle. Your guidance, expertise, and willingness to share your knowledge have been incredibly valuable throughout this journey. I truly appreciate all the support you've provided.
+
+   * I’m also grateful to the Code Institute tutor and the members of the Slack channel for their support. 
+     
      
 
