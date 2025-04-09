@@ -8,7 +8,7 @@ The main goals of this portfolio project are:
 - To showcase a selection of my past projects, including descriptions, images, and links to live demos or source code.
 - To highlight my technical skills in HTML, CSS, and responsive web design principles.
 - To practice and demonstrate design principles such as color theory, typography, layout structure, and user experience (UX) optimization.
-- To create a centralized contact point where visitors can reach out to me through a form or via linked social media profiles.. [My Portfolio](https://isaibrahim1.github.io/Portfolio/).
+- To create a centralized contact point where visitors can reach out to me through a form or via linked social media profiles. [My Portfolio](https://isaibrahim1.github.io/Portfolio/).
 
 ## Features
  
