@@ -1,6 +1,14 @@
 # My Portfolio
 
-This portfolio show cases my web development skills and projects, targeting potential employers, clients, and collaborators.  It highlights my technical abilities and passion for creating user-friendly digital experiences.  Ultimately, it aims to connect me with opportunities where I can contribute and grow as a developer. [My Portfolio](https://isaibrahim1.github.io/Portfolio/).
+### 🎯 Purpose of the Portfolio
+
+The main goals of this portfolio project are:
+
+- To present my professional profile in a clean, modern, and user-friendly interface.
+- To showcase a selection of my past projects, including descriptions, images, and links to live demos or source code.
+- To highlight my technical skills in HTML, CSS, and responsive web design principles.
+- To practice and demonstrate design principles such as color theory, typography, layout structure, and user experience (UX) optimization.
+- To create a centralized contact point where visitors can reach out to me through a form or via linked social media profiles.. [My Portfolio](https://isaibrahim1.github.io/Portfolio/).
 
 ## Features
  
