@@ -38,7 +38,7 @@ a {
 nav .logo a {
   font-size: 1.5rem;
   font-weight: 600;
-  color: var(--primary-color);
+  color: var(--text-dark);
   transition: 0.3s;
 }
 nav .logo a:hover {
@@ -178,12 +178,11 @@ nav {
   border: 1px solid #0a0a0a;
   font-weight: bold;
   font-size: 17px;
-  color: var(--primary-color);
+  color: var(--text-dark);
 }
 .active:hover {
-  background-color: var(--primary-color-dark);
-    color: #ffffff;
-    border: 1px solid var(--primary-color);
+    border: 1px solid #ca8a04;
+    border-bottom-color: #ca8a04;
 }
 nav ul li a {
     text-decoration: none;
