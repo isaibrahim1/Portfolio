@@ -267,7 +267,7 @@ input[type="checkbox"] {
 
 
 /* Footer Social Links */
-footer {
+footer .social-links{
     display: flex;
     justify-content: space-between;
     position: relative;
