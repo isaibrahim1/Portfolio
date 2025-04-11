@@ -175,13 +175,13 @@ nav {
     padding: 0 20px;
 }
 .active {
-  border: 1px solid #0a0a0a;
+  border-bottom: 1px solid #0a0a0a;
   font-weight: bold;
   font-size: 17px;
   color: var(--text-dark);
 }
 .active:hover {
-    border: 1px solid #ca8a04;
+    border-bottom: 1px solid #ca8a04;
     border-bottom-color: #ca8a04;
 }
 nav ul li a {
@@ -257,31 +257,16 @@ input[type="checkbox"] {
     line-height: 1.6;
     color: #333;
 }
-.section .social-links i{
+.about-links i{
   color: var(--text-dark);
   font-size: 40px;
+  margin: 5px;
+  padding: 5px;
 }
-.section .social-links i:hover {
+.section .about-links i:hover {
   color: var(--primary-color-dark);
 }
 
-
-/* Footer Social Links */
-footer .social-links{
-    display: flex;
-    justify-content: space-between;
-    position: relative;
-    background: #6d4300;
-    color: white;
-    text-align: center;
-    padding: 15px 25px;
-    margin-top: auto;
-    font-size: 1.3rem;
-}
-
-.social-links a:hover {
-    text-decoration: underline;
-}
 
 
 /* start project Cards style */
@@ -361,17 +346,43 @@ footer .social-links{
 }
 
 /* Footer */
+.footer {
+ 
+  background: #6d4300;
+  color: white;
+  padding: 15px 25px;
+  margin-top: auto;
+  font-size: 1.3rem;
+}
+.social-links p {
+  margin-top: auto;
+}
 
-.social-links a {
+
+.social-links a:hover {
+ 
+  text-decoration: underline;
+}
+
+
+
+
+.social-links  {
+  display: flex;
+  justify-content: space-around;
     color: white;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
     transition: 0.3s;
 }
-.social-links a:hover {
-    text-decoration: underline;
+.social-links a{
+  color: var(--extra-light);
+  padding: 5px 8px;
 }
+
+
+
 
 
 /* Extra small devices (phones, 600px and down)  */
