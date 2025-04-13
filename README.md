@@ -103,7 +103,7 @@ This portfolio is divided into three sections: "About" introduces me and my pass
 | Mobile Responsiveness              | Page adapts correctly to mobile screen sizes        | Tested on mobile & resized browser window | Layout responds well to screen size             | Pass      |
 | Hamburger Menu Icon                | Hamburger menu appears and toggles on small screens | Resized to mobile and clicked icon        | Menu appeared and toggled as expected           | Pass      |
 | Skills Progress Bars               | Skill bars display appropriate levels visually      | Viewed Skills section                     | Bars display correctly with correct percentages | Pass      |
-| Page Load Speed                    | Loads within 2–3 seconds                            | Opened the portfolio                      | Loaded quickly                                  | Pass      |
+| Page Load Speed                    | Loads within 7 seconds                            | Opened the portfolio                      | Loaded quickly                                  | Pass      |
 | HTML Validation                    | HTML markup is valid                                | Checked in HTML validator                 | Mostly valid – favicon href needs fixing        | Minor Fix |
 
 
@@ -182,8 +182,17 @@ To clone the repository:
 
  ## Design
   - ## Colour Scheme
-     - I have used #a855f7 &  #9333ea as the primary and dark colours used for the navbar and buttom.
-     - I have used #ca8a04 as the secondary-color  used for the text and link.
+    
+
+In my CSS file, I’ve used variables to declare colors, and then applied these throughout the stylesheet. I was introduced to this approach during a hackathon—it’s a useful convention, as it allows for consistent theming and makes global color updates easy by changing the value in a single place.
+
+- I have used `#a855f7` as the **primary color** throughout the site.
+- I have used `#9333ea` as the **dark variant of the primary color**, mainly for hover states or stronger accents.
+- I have used `#ca8a04` as the **secondary color** for highlights or calls to action.
+- I have used `#1f2937` for **main text**, ensuring good readability.
+- I have used `#6b7280` for **lighter text**, such as hints or subheadings.
+- I have used `#faf5ff` as the **extra light background**, creating soft contrast where needed.
+
 
  ## User Experience (UX)
   - First Time Visitor Goals
