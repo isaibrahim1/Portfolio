@@ -33,9 +33,9 @@ This portfolio is divided into three sections: "About" introduces me and my pass
      - This portfolio showcases my completed projects, demonstrating my technical skills, problem-solving abilities, and design sensibilities.
 
  - ### Skills
-    <div>
-     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/skills.png?raw=true">
-    </div>
+ 
+     ![Skills](https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/skills.png?raw=true)
+     
      - This section outlines my technical proficiencies in various programming languages, frameworks, and tools, providing a clear overview of my capabilities.      
        
  - ###  The Footer
