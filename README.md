@@ -11,8 +11,8 @@ The main goals of this portfolio project are:
 - To create a centralized contact point where visitors can reach out to me through a form or via linked social media profiles. [My Portfolio](https://isaibrahim1.github.io/Portfolio/).
 
 ## Features
+  ![Full Page](https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/fullpage.jpeg?raw=true)
  
-  <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/fullpage.png?raw=true">
   
 This portfolio is divided into three sections: "About" introduces me and my passion for web development; "Projects" showcases my work and problem-solving skills, demonstrating my ability to deliver effective web solutions; and "Skills" highlights my technical proficiencies, assuring potential employers and clients of my capabilities.  Each section is designed to provide a clear and concise overview of my qualifications and experience, making it easy for visitors to assess my fit for their needs.
 
@@ -39,9 +39,8 @@ This portfolio is divided into three sections: "About" introduces me and my pass
      - This section outlines my technical proficiencies in various programming languages, frameworks, and tools, providing a clear overview of my capabilities.      
        
  - ###  The Footer
-    <div>
-     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/footer.png?raw=true">
-    </div>
+      ![Footer Screenshot](https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/footer.jpeg?raw=true)
+   
    - The footer provides links to my social media profiles, making it easy to connect and stay updated on my work.
 
 
@@ -83,18 +82,52 @@ This portfolio is divided into three sections: "About" introduces me and my pass
     
       <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/cssvalidation.png?raw=true">
    
-       - No errors were found when passing through the official      
+       - No errors were found when passing through the official
 
-    ## Technologies Used
-    
-    ### Languages Used
-    
-    HTML, CSS,
+   ## ✅ Portfolio Testing Table
+
+| Feature                            | Expected Outcome                                    | Testing Performed                         | Result                                          | Pass/Fail |
+| ---------------------------------- | --------------------------------------------------- | ----------------------------------------- | ----------------------------------------------- | --------- |
+| Site Logo "I S A"                  | Clicking redirects to homepage (`index.html`)       | Clicked logo from another page            | Redirected back to homepage                     | Pass      |
+| Navigation: Home Link              | Navigates to homepage                               | Clicked "Home" link                       | Page reloaded or stayed on homepage             | Pass      |
+| Navigation: About Link             | Scrolls to About Me section                         | Clicked "About" link                      | Smooth scroll to About section                  | Pass      |
+| Navigation: Project Link           | Scrolls to Project section                          | Clicked "Project" link                    | Smooth scroll to Project section                | Pass      |
+| Navigation: Skills Link            | Scrolls to Skills section                           | Clicked "Skills" link                     | Smooth scroll to Skills section                 | Pass      |
+| Contact Button                     | Scrolls to footer contact section                   | Clicked "Contact" button in header        | Page scrolled to footer contact                 | Pass      |
+| Projects - Love Running            | Opens external link to Love Running project         | Clicked project card                      | Project opened in new tab                       | Pass      |
+| Projects - Gamewalkboard           | Opens external link to Gamewalkboard                | Clicked project card                      | Project opened in new tab                       | Pass      |
+| Projects - Coming Soon Card        | Opens placeholder (currently Google)                | Clicked card                              | Opened Google in new tab                        | Pass      |
+| Social Icons (GitHub, X, LinkedIn) | Opens external social profiles in new tab           | Clicked each social icon                  | Each profile opened in new tab                  | Pass      |                                 |                                                     |                                                                                 |   
+| Button Hover Effects               | Buttons/links change style on hover                 | Hovered over nav links & project cards    | Hover effects observed                          | Pass      |
+| Image Alt Attributes               | All images have descriptive `alt` text              | Inspected each image tag                  | All images have alt attributes                  | Pass      |
+| Mobile Responsiveness              | Page adapts correctly to mobile screen sizes        | Tested on mobile & resized browser window | Layout responds well to screen size             | Pass      |
+| Hamburger Menu Icon                | Hamburger menu appears and toggles on small screens | Resized to mobile and clicked icon        | Menu appeared and toggled as expected           | Pass      |
+| Skills Progress Bars               | Skill bars display appropriate levels visually      | Viewed Skills section                     | Bars display correctly with correct percentages | Pass      |
+| Page Load Speed                    | Loads within 7 seconds                            | Opened the portfolio                      | Loaded quickly                                  | Pass      |
+| HTML Validation                    | HTML markup is valid                                | Checked in HTML validator                 | Mostly valid – favicon href needs fixing        | Minor Fix |
+
+
+
+
+ ##  Technologies Used
+
+- HTML5
+- CSS3
+- Font Awesome
+- Responsive Web Design
+- Git & GitHub
+
+##  Languages Used
+
+- HTML
+- CSS
+
 
  ## Unfixed Bugs
    - The navigation menu's responsiveness on smaller devices is currently being addressed, but is not yet fully resolved, to ensure proper functionality and a smooth user experience
    
-     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/lighthouse.png?raw=true">
+     ![Lighthouse Report](https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/lighthouse.png?raw=true)
+
  ## Testing in lighthous report  
 
  ## Deployment
@@ -149,8 +182,17 @@ To clone the repository:
 
  ## Design
   - ## Colour Scheme
-     - I have used #a855f7 &  #9333ea as the primary and dark colours used for the navbar and buttom.
-     - I have used #ca8a04 as the secondary-color  used for the text and link.
+    
+
+In my CSS file, I’ve used variables to declare colors, and then applied these throughout the stylesheet. I was introduced to this approach during a hackathon—it’s a useful convention, as it allows for consistent theming and makes global color updates easy by changing the value in a single place.
+
+- I have used `#a855f7` as the **primary color** throughout the site.
+- I have used `#9333ea` as the **dark variant of the primary color**, mainly for hover states or stronger accents.
+- I have used `#ca8a04` as the **secondary color** for highlights or calls to action.
+- I have used `#1f2937` for **main text**, ensuring good readability.
+- I have used `#6b7280` for **lighter text**, such as hints or subheadings.
+- I have used `#faf5ff` as the **extra light background**, creating soft contrast where needed.
+
 
  ## User Experience (UX)
   - First Time Visitor Goals
