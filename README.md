@@ -11,8 +11,8 @@ The main goals of this portfolio project are:
 - To create a centralized contact point where visitors can reach out to me through a form or via linked social media profiles. [My Portfolio](https://isaibrahim1.github.io/Portfolio/).
 
 ## Features
-  ![Full Page](https://github.com/isaibrahim1/Portfolio)
-  <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/fullpage.png?raw=true">
+  ![Full Page](https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/fullpage.jpeg?raw=true)
+ 
   
 This portfolio is divided into three sections: "About" introduces me and my passion for web development; "Projects" showcases my work and problem-solving skills, demonstrating my ability to deliver effective web solutions; and "Skills" highlights my technical proficiencies, assuring potential employers and clients of my capabilities.  Each section is designed to provide a clear and concise overview of my qualifications and experience, making it easy for visitors to assess my fit for their needs.
 
@@ -39,9 +39,8 @@ This portfolio is divided into three sections: "About" introduces me and my pass
      - This section outlines my technical proficiencies in various programming languages, frameworks, and tools, providing a clear overview of my capabilities.      
        
  - ###  The Footer
-    <div>
-     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/footer.png?raw=true">
-    </div>
+      ![Footer Screenshot](https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/footer.jpeg?raw=true)
+   
    - The footer provides links to my social media profiles, making it easy to connect and stay updated on my work.
 
 
@@ -127,7 +126,8 @@ This portfolio is divided into three sections: "About" introduces me and my pass
  ## Unfixed Bugs
    - The navigation menu's responsiveness on smaller devices is currently being addressed, but is not yet fully resolved, to ensure proper functionality and a smooth user experience
    
-     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/lighthouse.png?raw=true">
+     ![Lighthouse Report](https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/lighthouse.png?raw=true)
+
  ## Testing in lighthous report  
 
  ## Deployment
