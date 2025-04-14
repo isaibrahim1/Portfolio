@@ -21,15 +21,15 @@ This portfolio is divided into three sections: "About" introduces me and my pass
      - A responsive navigation bar, featuring links to About, Projects, and Skills, is present on all pages, ensuring effortless navigation across all devices
     
  - ### About 
-    
-     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/aboume.png?raw=true">
+     ![About](https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/aboutme.jpeg?raw=true)
+      
      
      - Welcome to my web developer portfolio! I'm I S A, a skilled and creative web developer with a passion for creating beautiful, responsive, and user-friendly websites. I've worked on a variety of web projects, ranging from personal blogs to e-commerce platforms.
 
  - ### Projects
-    <div>
-     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/project.png?raw=true">
-    </div>
+   
+      ![Project](https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/project.png?raw=true)
+    
      - This portfolio showcases my completed projects, demonstrating my technical skills, problem-solving abilities, and design sensibilities.
 
  - ### Skills
@@ -65,7 +65,9 @@ This portfolio is divided into three sections: "About" introduces me and my pass
 
 * [TinyPNG](https://cloudconvert.com/) To compress images
 
-* [Favicon.io](https://favicon.io/) To create favicon.
+* [Favicon](https://favicon.io/) To create favicon.
+  
+* [Balsamiq](https://balsamiq.com/) To create wireframe for desktop,tablet and mobile.                                         
 
 ## Testing
    
@@ -108,15 +110,15 @@ This portfolio is divided into three sections: "About" introduces me and my pass
 
 
 ### Wireframes
+Wireframes were created for mobile, tablet and desktop using balsamiq.
 
+  ![Home Page](https://github.com/isaibrahim1/Portfolio/raw/refs/heads/main/documentaion/Desktop.webp)
+  
+  ![M Page](https://github.com/isaibrahim1/Portfolio/raw/refs/heads/main/documentaion/Tablet.webp)
+  
+  ![Mobile Page](https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/mobile.png?raw=true)
+   
 
-<p align="center">
-  
-  
-  <img src="documentaion/mobile.png" alt="Coming Soon" width="30%" />
-  <img src="documentaion/Tablet.webp" alt="Gamewalkboard" width="30%" />
-  <img src="documentaion/Desktop.webp" alt="Gamewalkboard" width="30%" />
-</p>
 
 
 
@@ -136,8 +138,6 @@ This portfolio is divided into three sections: "About" introduces me and my pass
 - CSS
 
 
- ## Unfixed Bugs
-   - The navigation menu's responsiveness on smaller devices is currently being addressed, but is not yet fully resolved, to ensure proper functionality and a smooth user experience
    
      ![Lighthouse Report](https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/lighthouse.png?raw=true)
 
@@ -145,7 +145,7 @@ This portfolio is divided into three sections: "About" introduces me and my pass
 
  ## Deployment
    - The site is deployed using GitHub Pages [My Portfolio](https://isaibrahim1.github.io/Portfolio/).
-  ## ✅ Deploying a Project to GitHub 
+  ##  Deploying a Project to GitHub 
 
 1. Go to [GitHub.com](https://github.com) and **create a new account or sign in**.
 2. Click your **profile picture** (top-right) → select **"Your repositories"**.
@@ -161,7 +161,7 @@ This portfolio is divided into three sections: "About" introduces me and my pass
    - Drag and drop your files/folders
    - Or click **“Choose your files”**
 8. Once uploaded, scroll down and click **“Commit changes”**.
-9. ✅ Done! Your project is now live on GitHub.  
+9.  Done! Your project is now live on GitHub.  
  
 
 
