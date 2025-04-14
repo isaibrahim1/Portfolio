@@ -16,7 +16,9 @@
   margin: 0;
   box-sizing: border-box;
 }
-
+html {
+  scroll-padding-top: 75px; /*to add more top space in title when scrolling*/
+}
 body {
     display: flex;
     flex-direction: column;
@@ -343,7 +345,7 @@ input[type="checkbox"] {
     font-size: 33px;
     color: #6d4300;
     margin-bottom: 20px;
-    margin-top: 70px;
+    margin-top: 86px;
 }
 .card-container {
     display: flex;
@@ -514,7 +516,7 @@ input[type="checkbox"] {
       width: auto;
     }
   }
-  
+
   /* Medium devices (landscape tablets, 768px and up) */
   @media (min-width: 768px) {
     .nav-content {
