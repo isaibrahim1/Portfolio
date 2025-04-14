@@ -381,7 +381,7 @@ input[type="checkbox"] {
     
 }
 
-/* skills section */
+
 .light-gray {
     background-color: darkgray;
     height: 30px;
@@ -430,8 +430,6 @@ input[type="checkbox"] {
  
   text-decoration: underline;
 }
-
-
 
 
 .social-links  {
@@ -516,6 +514,7 @@ input[type="checkbox"] {
       width: auto;
     }
   }
+  
   /* Medium devices (landscape tablets, 768px and up) */
   @media (min-width: 768px) {
     .nav-content {
