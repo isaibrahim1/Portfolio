@@ -33,9 +33,9 @@ This portfolio is divided into three sections: "About" introduces me and my pass
      - This portfolio showcases my completed projects, demonstrating my technical skills, problem-solving abilities, and design sensibilities.
 
  - ### Skills
-    <div>
-     <img src="https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/skills.png?raw=true">
-    </div>
+ 
+     ![Skills](https://github.com/isaibrahim1/Portfolio/blob/main/documentaion/skills.png?raw=true)
+     
      - This section outlines my technical proficiencies in various programming languages, frameworks, and tools, providing a clear overview of my capabilities.      
        
  - ###  The Footer
@@ -132,16 +132,25 @@ This portfolio is divided into three sections: "About" introduces me and my pass
 
  ## Deployment
    - The site is deployed using GitHub Pages [My Portfolio](https://isaibrahim1.github.io/Portfolio/).
-   - To Deploy the site using GitHub Pages:
-     
-      - <ol>
-        <li>Login (or signup) to Github.</li>
-        <li>Go to the repository for this project</li>
-        <li>Click the settings button.</li>
-        <li>Select pages in the left hand navigation menu.</li>
-        <li>From the source dropdown select main branch and press save.</li>
-        <li>The site has now been deployed, please note that this process may take a few minutes before the site goes live.</li>
-      </ol> 
+  ## ✅ Deploying a Project to GitHub 
+
+1. Go to [GitHub.com](https://github.com) and **create a new account or sign in**.
+2. Click your **profile picture** (top-right) → select **"Your repositories"**.
+3. Click the green **“New”** button to create a new repository.
+4. Fill in the repository details:
+   - **Repository Name**
+   - Optional: **Description**
+   - Choose **Public** or **Private**
+   - Check **“Add a README file”**
+5. Click **“Create repository”**.
+6. On the new repository page, click **“Add file” → “Upload files”**.
+7. **Upload your project**:
+   - Drag and drop your files/folders
+   - Or click **“Choose your files”**
+8. Once uploaded, scroll down and click **“Commit changes”**.
+9. ✅ Done! Your project is now live on GitHub.  
+ 
+
 
   -  The live link can be found here [My Portfolio](https://isaibrahim1.github.io/Portfolio/).
 
