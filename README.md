@@ -63,7 +63,7 @@ This portfolio is divided into three sections: "About" introduces me and my pass
 
 * [Google Developer Tools](https://developers.google.com/web/tools) - To troubleshoot and test features, solve issues with responsiveness and styling.
 
-* [TinyPNG](https://tinypng.com/) To compress images
+* [TinyPNG](https://cloudconvert.com/) To compress images
 
 * [Favicon.io](https://favicon.io/) To create favicon.
 
@@ -105,6 +105,19 @@ This portfolio is divided into three sections: "About" introduces me and my pass
 | Skills Progress Bars               | Skill bars display appropriate levels visually      | Viewed Skills section                     | Bars display correctly with correct percentages | Pass      |
 | Page Load Speed                    | Loads within 7 seconds                            | Opened the portfolio                      | Loaded quickly                                  | Pass      |
 | HTML Validation                    | HTML markup is valid                                | Checked in HTML validator                 | Mostly valid – favicon href needs fixing        | Minor Fix |
+
+
+### Wireframes
+
+
+<p align="center">
+  
+  
+  <img src="documentaion/mobile.png" alt="Coming Soon" width="30%" />
+  <img src="documentaion/Tablet.webp" alt="Gamewalkboard" width="30%" />
+  <img src="documentaion/Desktop.webp" alt="Gamewalkboard" width="30%" />
+</p>
+
 
 
 
